@@ -1,0 +1,6 @@
+C:\Users\Yeison\source\repos\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\Yeison\source\repos\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\Yeison\source\repos\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\Yeison\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\Yeison\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
